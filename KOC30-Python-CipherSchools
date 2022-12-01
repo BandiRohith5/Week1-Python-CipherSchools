@@ -106,7 +106,7 @@ print(" he is good \t boy")
 print("he is good \\t boy")
 # out put :\"\'
 print("\\\"\\\'")
-print(" this is \\\\ vignesh")
+print(" this is \\\\ Rohith")
 print("he is /\\/\\/\\/\\ awsome")
 
 
@@ -164,9 +164,9 @@ else:
       print("too high")          
 
 
-name="vignesh"
+name="Rohith"
 age=18
-if name=="vignesh" and age==18:
+if name=="Rohith" and age==18:
     print("true")
 else:
     print("false")
@@ -216,13 +216,9 @@ print(total)
 
 i=0 
 while i <=10:
-    print("vignesh")
+    print("Rohith")
     i+=1
 
 #for loop
 for i in range(10):
-    print(f"ignesh:{i}")    
-    
-    
-    
-    
+    print(f"Rohith:{i}")
